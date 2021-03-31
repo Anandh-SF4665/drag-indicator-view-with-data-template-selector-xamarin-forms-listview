@@ -1,2 +1,1 @@
-# drag-indicator-view-with-data-template-selector-xamarin-forms-listview
-How to use drag indicator view with DataTemplateSelector in Xamarin.Forms ListView (SfListView)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12492/how-to-use-drag-indicator-view-with-datatemplateselector-in-xamarin-forms-listview)**
